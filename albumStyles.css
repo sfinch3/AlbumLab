@@ -1,0 +1,27 @@
+#pic{
+    text-align: center;
+}
+
+
+#date{
+    text-align: center
+}
+
+#bandTable{
+    width: 100%;
+}
+
+#leftColumns{
+    width: 10%;
+}
+
+#trackTable{
+    text-align: center; width: 80%;
+}
+
+table { margin: auto; }
+
+#tableHeads{
+    background-color: grey
+}
+
