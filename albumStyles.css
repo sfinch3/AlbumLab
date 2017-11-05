@@ -5,3 +5,10 @@ table, th, td{
 table{
     width: 100%;text-align: center
 }
+
+#pic{
+    background-image:url("images/albumCover.jpg");
+    height: 225px;
+    background-repeat:no-repeat;
+    background-position: center center;
+}
