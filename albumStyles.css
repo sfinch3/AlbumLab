@@ -1,6 +1,7 @@
 table, th, td{
-    border:2px solid gray
+    border:2px solid red; font-style: italic; background: grey
 }
+
 
 table{
     width: 100%;text-align: center
